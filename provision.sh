@@ -12,4 +12,4 @@ yum --enablerepo=mariadb -y install MariaDB-Galera-server
 #/etc/rc.d/init.d/mysql bootstrap 
 yum -y install perl perl-Net-SSLeay openssl perl-IO-Tty
 echo instalacion basica lista
-
+echo fin
